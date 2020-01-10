@@ -273,8 +273,8 @@ function bb_er_row_extender( $form, $id ) {
 							'type'    => 'font',
 							'label'   => __( 'Before/After Click ', 'bb-expandable-row' ),
 							'default' => array(
-								'family' => 'Defaults',
-								'weight' => 'Defaults'
+								'family' => 'Default',
+								'weight' => 'Default'
 							),
 							'preview' => array(
 								'type'     => 'font',
